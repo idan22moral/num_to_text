@@ -15,6 +15,6 @@ if __name__ == '__main__':
 Or use is as-is:
 ```sh
 $ python3 num_to_text.py
-Enter number to read: 1337
+Enter number to stringify: 1337
 one thousand, three hundred thirty seven
 ```
