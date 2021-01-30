@@ -7,10 +7,10 @@ You can import it to your code:
 import num_to_text
 
 def main():
-  print(num_to_text.stringify_num(1337))
+    print(num_to_text.stringify_num(1337))
 
 if __name__ == '__main__':
-	main()
+    main()
 ```
 Or use is as-is:
 ```sh
