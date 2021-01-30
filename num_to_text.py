@@ -85,7 +85,7 @@ def stringify_num(num) -> str:
 
 
 def main():
-	num = input('Enter number to read: ')
+	num = input('Enter number to stringify: ')
 	num = num.replace(',', '')
 
 	try:
